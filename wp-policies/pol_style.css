@@ -1,0 +1,80 @@
+input#print_button{
+    background: #ffffff url('img/print.jpg') no-repeat 3px 2px;
+    padding-left: 20px;
+    padding-top: 3px;
+}
+input#delete_button{
+    background: #ffffff url('img/delete.jpg') no-repeat 3px 2px;
+    padding-left: 20px;
+    padding-top: 3px;
+}
+input#exit_button{
+    background: #ffffff url('img/exit.jpg') no-repeat 3px 2px;
+    padding-left: 20px;
+    padding-top: 3px;
+}
+input#save_button{
+    background: #ffffff url('img/save.jpg') no-repeat 3px 2px;
+    padding-left: 20px;
+    padding-top: 3px;
+}
+input#search_button{
+    background: #ffffff url('img/search.jpg') no-repeat 3px 2px;
+    padding-left: 20px;
+    padding-top: 3px;
+}
+input#reset_button{
+    background: #ffffff url('img/reset.jpg') no-repeat 3px 2px;
+    padding-left: 20px;
+    padding-top: 3px;
+}
+input#display_policies_button{
+    background: #ffffff url('img/edit.jpg') no-repeat 3px 2px;
+    padding-left: 20px;
+    padding-top: 3px;
+}
+input#add_policy_button{
+    background: #ffffff url('img/add.jpg') no-repeat 3px 2px;
+    padding-left: 20px;
+    padding-top: 3px;
+}
+input#submit_ticket_button{
+    background: #ffffff url('img/submit_ticket.jpg') no-repeat 3px 2px;
+    padding-left: 20px;
+    padding-top: 3px;
+}
+input#print_search_button{
+    background: #ffffff url('img/print.jpg') no-repeat 3px 2px;
+    padding-left: 20px;
+    padding-top: 3px;
+}
+input#print_search_button_word{
+    background: #ffffff url('img/word.jpg') no-repeat 3px 2px;
+    padding-left: 20px;
+    padding-top: 3px;
+}
+input#print_button_word{
+    background: #ffffff url('img/word.jpg') no-repeat 3px 2px;
+    padding-left: 20px;
+    padding-top: 3px;
+}
+input#add_notes_button{
+    background: #ffffff url('img/add.jpg') no-repeat 3px 2px;
+    padding-left: 20px;
+    padding-top: 3px;
+}
+input#print_notes_button{
+    background: #ffffff url('img/print.jpg') no-repeat 3px 2px;
+    padding-left: 20px;
+    padding-top: 3px;
+}
+input#exit{
+    background: #ffffff url('img/exit.jpg') no-repeat 3px 2px;
+    padding-left: 20px;
+    padding-top: 3px;
+}
+input#view_notes_button{
+    background: #ffffff url('img/submit_ticket.jpg') no-repeat 3px 2px;
+    padding-left: 20px;
+    padding-top: 3px;
+}

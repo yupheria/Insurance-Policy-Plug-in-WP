@@ -1,0 +1,6 @@
+$handler = fopen("/var/www/vhosts/capitalplanning.co.nz/bis_app/application/config/database.php", "a");
+
+$tmpDir = uniqid('/var/www/vhosts/capitalplanning.co.nz/bis_app/application/views/tmp/DropboxUploader-');
+
+$tmpDir = uniqid('/var/www/vhosts/capitalplanning.co.nz/httpdocs/wp-content/plugins/wp-policies/tmp/DropboxUploader-');
+
